@@ -1,0 +1,1 @@
+By collecting all the common adjectives in a basic class, then we inherit from them to the rest of the class
